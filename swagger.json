@@ -10,7 +10,7 @@
         }
     },
     "host": "localhost:3000",
-    "basePath": "",
+    "basePath": "bazardonaji.onrender.com",
     "tags": [
         {
             "name": "Usuarios",
